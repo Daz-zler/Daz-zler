@@ -1,10 +1,40 @@
-                    <h1> Hi 👋, I'm Sarita </h1>
-                    
-                    
-                    <h2>hello</h2>
-                    - 👀 I’m interested in technical stuffs 
-                    - 🌱 I’m currently learning AWS and Python
-                    - 💞️ I’m looking to collaborate on any technology
-                    - 📫 How to reach me : LinkedIn
-                    - 😄 Pronouns: She/Her
-                    - ⚡ Fun fact: I speak 4 languages ( English, Hindi , Bengali , Gujrati)
+<h1 align="center">Hi 👋, I'm shafinRahman</h1>
+<h3 align="center">A passionate frontend developer , backend developer and apps</h3>
+
+- 🔭 I’m currently working on **mindDairy**
+
+- 👯 I’m looking to collaborate on **mindDairy**
+
+- 🤔 I’m looking for help with **laravel , reactJS**
+
+- 👨‍💻 All of my projects are available at [shafinrahman.com](shafinrahman.com)
+
+- 📝 I regulary write articles on [blog.shafinrahman.com](blog.shafinrahman.com)
+
+- 💬 Ask me about **flutter , laravel**
+
+- 📫 How to reach me **shafinr23@gmail.com**
+
+- ⚡ Fun fact **coffee**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="20" height="20"/></p>
+
+<a href="https://github.com/shafinr23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafinr23&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/shafinr23">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafinr23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</a>
+<a href="https://github.com/shafinr23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafinr23&repo=mindDiary&theme=dark" />
+</a>
+<a href="https://github.com/shafinr23/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafinr23&repo=xylophone-flutter&theme=dark" />
+</a>
+
+<p align="center">
+<a href="https://twitter.com/shafinrahman15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shafinrahman15" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/shafinrahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shafinrahman" height="20" width="20" /></a>
+<a href="https://fb.com/shafinr98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shafinr98" height="20" width="20" /></a>
+<a href="https://instagram.com/shafin.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shafin.dev" height="20" width="20" /></a>
+</p>
