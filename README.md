@@ -1,4 +1,4 @@
-### Hello World, I'm Sarita  👋
+# Hello World, I'm Sarita  👋
 
  <img align="right" alt="GIF" src="https://github.com/Daz-zler/Daz-zler/blob/main/code.gif?raw=true" width="500" height="320" />
 
