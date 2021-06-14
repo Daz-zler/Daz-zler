@@ -1,4 +1,4 @@
-                                  👋<h1> Hi, I’m Sarita</h1>
+                    <h1 align="center">Hi 👋, I'm Sarita</h1>
                     - 👀 I’m interested in technical stuffs 
                     - 🌱 I’m currently learning AWS and Python
                     - 💞️ I’m looking to collaborate on any technology
